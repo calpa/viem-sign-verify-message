@@ -20,4 +20,4 @@ const valid = await verifyMessage({
   signature,
 });
 
-export default [`Signature: ${signature}`, `Valid: ${valid}`];
+export default [`Signature: ${signature}`, `Message: ${message}`, `Valid: ${valid}`];
