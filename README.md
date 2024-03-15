@@ -1,3 +1,3 @@
-# Balance Example
+# Viem Sign Message
 
-Check Balance
+This is an example to sign message using viem.
