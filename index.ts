@@ -4,7 +4,7 @@ import { address, walletClient } from './config';
 const message = `
 Welcome to Web3!
 
-Click to ign in and accept the Web3 Terms of Service.
+Click to sign in and accept the Web3 Terms of Service.
 
 This request will not trigger a blockchain transaction or cost any gas fees.
 `;
